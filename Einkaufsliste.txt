@@ -1,8 +1,6 @@
-Nudeln\n
-Feta\n
-Tomaten\n
-~~Gurke~~\n
-~~Salat~~\n
-Grieß\n
-Apfelmus\n
+Nudeln
+Feta
+Tomaten
+Grieß
+Apfelmus
 Milchbrötchen
