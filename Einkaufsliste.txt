@@ -1,5 +1,8 @@
-Nudeln
-Feta
-Tomaten
-Gurke
-Salat
+Nudeln\n
+Feta\n
+Tomaten\n
+~~Gurke~~\n
+~~Salat~~\n
+Grieß\n
+Apfelmus\n
+Milchbrötchen
