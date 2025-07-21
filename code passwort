@@ -1,0 +1,12 @@
+//Definition richtiges Passwort = x
+
+//i = 0 (Anzahl der Versuche)
+	//for i<=2
+		//get_string(“Passwort”)
+	//if gegebenes Passwort = x
+		//print “Zugang gewährt"
+	//else if gegebenes Passwort nicht x
+		//print ”Nächster Versuch”
+		//i++
+    //restart
+	//else “Zugriff gesperrt”
